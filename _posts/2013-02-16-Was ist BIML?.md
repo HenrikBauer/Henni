@@ -6,7 +6,7 @@ desc: "Business Intelligence Markup Language"
 keywords: "BI, SSIS, BIML, BIDSHelper"
 categories: [BI,SSIS]
 tags: [BIDSHelper]
-icon: icon-html
+icon: icon-mssql
 ---
 
 #Was ist BIML?
