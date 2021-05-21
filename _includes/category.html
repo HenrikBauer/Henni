@@ -20,6 +20,15 @@ $(function(){
         {% if category == 'Html' %}
         {% assign category = category | upcase %}
         {% endif %}
+        {% if category == 'Bi' %}
+        {% assign category = category | upcase %}
+        {% endif %}
+        {% if category == 'Sql' %}
+        {% assign category = category | upcase %}
+        {% endif %}
+        {% if category == 'SSIS' %}
+        {% assign category = category | upcase %}
+        {% endif %}
         <h1>{{ category }}</h1>
     </div>
 </div>
