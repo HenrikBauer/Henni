@@ -4,7 +4,7 @@ title:  "Was ist BIML?"
 date:   2013-02-16
 desc: "Business Intelligence Markup Language"
 keywords: "BI, SSIS, BIML, BIDSHelper"
-categories: [BI,SSIS]
+categories: [BI]
 tags: [BIDSHelper]
 icon: icon-mssql
 ---
