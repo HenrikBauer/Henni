@@ -6,7 +6,7 @@ desc: "Solution for the oauth error for stackedit with github "
 keywords: "StackEdit, GitHub, OAuth2"
 categories: [Helpers]
 tags: [Helpers]
-icon: icon-mssql
+icon: fa-thumbs-up
 ---
 I want to use StackEdit to create my blog posts.
 Unfortunately, the workspace synchronization with GitHub did not work.
@@ -17,5 +17,5 @@ So I googled and found:
 
 > This post is written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTI3MDc1NF19
+eyJoaXN0b3J5IjpbMTkyMjUwNDQ3MywtODQxMjcwNzU0XX0=
 -->
