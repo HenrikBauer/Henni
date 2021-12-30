@@ -17,6 +17,9 @@
 
 - name: DSQLT
   href: /dsqlt/
+  
+- name: Helpers
+  href: /helpers/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
