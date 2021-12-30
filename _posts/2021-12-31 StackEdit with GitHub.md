@@ -2,8 +2,8 @@
 layout: post
 title:  "StackEdit with GitHub"
 date:   2021-12-30
-desc: "Solution for "
-keywords: "BI, SSIS, BIML, BIDSHelper"
+desc: "Solution for the oauth error for stackedit with github "
+keywords: "StackEdit, GitHub, OAuth2"
 categories: [BI]
 tags: [BIDSHelper]
 icon: icon-mssql
@@ -17,5 +17,5 @@ So I googled and found:
 
 > This post is written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3OTU2NTgwXX0=
+eyJoaXN0b3J5IjpbMjk0MjU2NjExXX0=
 -->
