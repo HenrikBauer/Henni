@@ -4,8 +4,8 @@ title:  "StackEdit with GitHub"
 date:   2021-12-30
 desc: "Solution for the oauth error for stackedit with github "
 keywords: "StackEdit, GitHub, OAuth2"
-categories: [BI]
-tags: [BIDSHelper]
+categories: [Helpers]
+tags: [Helpers]
 icon: icon-mssql
 ---
 I want to use StackEdit to create my blog posts.
@@ -17,5 +17,5 @@ So I googled and found:
 
 > This post is written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MjU2NjExXX0=
+eyJoaXN0b3J5IjpbLTg0MTI3MDc1NF19
 -->
