@@ -4,7 +4,7 @@ title:  "StackEdit with GitHub"
 date:   2021-12-30
 desc: "Solution for the oauth error for stackedit with github "
 keywords: "StackEdit, GitHub, OAuth2"
-categories: [Helpers]
+categories: [HELPERS]
 tags: [Helpers]
 icon: fa-thumbs-up
 ---
@@ -17,5 +17,5 @@ So I googled and found:
 
 > This post is written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjUwNDQ3M119
+eyJoaXN0b3J5IjpbLTEwNzk1OTgzMTEsMTkyMjUwNDQ3M119
 -->
