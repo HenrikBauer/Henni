@@ -12,13 +12,13 @@
 - name: Database
   href: /database/
 
-- name: PowerQuery
+- name: Powerquery
   href: /powerquery/
 
 - name: DSQLT
   href: /dsqlt/
   
-- name: HELPERS
+- name: Helpers
   href: /helpers/
 
 # Don't display donation page: change donation to off at file '_config.yml'
