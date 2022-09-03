@@ -2,5 +2,6 @@
 
 label: Ability
 id : cs
-aspects: SQL, C#, ASP.NET Core, OLAP, Excel, Power Platform, Azure, Bierologie
-percentage: 100, 80, 65, 60, 95, 60, 50, 100
+aspects: Brew, SQL, C#, ASP.NET Core, OLAP, Excel, Power Platform, Azure, MAUI, JS/TS, HTML/CSS
+percentage: 100, 100, 90, 70, 70, 95, 50, 50, 10, 50, 50
+

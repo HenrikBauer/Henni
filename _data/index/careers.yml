@@ -7,10 +7,25 @@
     detail: I work at Kulmbacher Brauerei AG
     i18n: company_a_desc
   date:
-    detail: from July 1995 until now
+    detail: from January 1997 until now
     i18n: company_a_date
   job:
-    detail: Lead Software Architect
+    detail: Lead Software Architect, Head of Datawarehouse
     i18n: company_a_job
   icon: fa-plus-square
   present: true
+
+- name:
+    detail: Markgrafen Getränkevertrieb GmbH
+    i18n: company_b
+  desc:
+    detail: 
+    i18n: company_b_desc
+  date:
+    detail: from July 1995 until December 1996
+    i18n: company_b_date
+  job:
+    detail: Software Developer, Head of IT
+    i18n: company_b_job
+  icon: fa-plus-square
+

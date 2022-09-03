@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
 - name: DSQLT
-  i18n: google
+  i18n: 
   url: https://github.com/HenrikBauer/DSQLT
   img: 
   desc: Dynamic SQL Templates
